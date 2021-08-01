@@ -32,4 +32,4 @@ Snapps - это смарт-контракты Mina общего назначен
 
 Это будет мощный способ связать реальный мир и криптовалюты, не требуя чего-либо, отличного от веб-страниц, которые мы уже используем. Помимо этого варианта использования HTTPS/oracle, Snapps также предоставляют множество удивительных возможностей. Во многом это похоже на то, когда вышел Ethereum и открыл совершенно новый набор возможностей в дополнение к ограниченному набору функций Биткойна для вычислений. Если вам интересно, [узнайте больше о Snapps здесь](https://bit.ly/minasnapps) и присоединитесь к [нашему сообществу на Discord](http://bit.ly/MinaDiscord), чтобы изучить эту идею дальше (канал #snapps).
 
-Перевод статьи: [HTTPS and Snapps: Bridging cryptocurrency and the real world](https://medium.com/minaprotocol/https-and-snapps-bridging-cryptocurrency-and-the-real-world-962beb21cf2b)
+Перевод статьи: <a href="https://medium.com/minaprotocol/https-and-snapps-bridging-cryptocurrency-and-the-real-world-962beb21cf2b" rel="nofollow">HTTPS and Snapps: Bridging cryptocurrency and the real world</a>
